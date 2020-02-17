@@ -267,7 +267,7 @@ module baseLid(outerDepth, wallWidth,lipSize=2) {
 }
 
 // 1 of these
-// icoLid(ledHoleSize, cavityDepth, wallWidth);
+// icoLid(ledHoleSize, cavityDepth, wallWidth, lidLipSize);
 
 // 3 of these
 // icosahedronQuadrant(outerDepth,cavityDepth,wallWidth,ledHoleSize);
